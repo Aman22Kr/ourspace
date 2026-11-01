@@ -1,0 +1,6 @@
+{
+  "name": "ourspace",
+  "description": "Premium flexible workspaces, bespoke private offices, executive boardrooms, and coworking spaces across premier Grade-A CBD landmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
